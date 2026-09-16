@@ -28,5 +28,17 @@
 
 /////                                       TASK 3
 
-Date date = new Date(1, 12, 2023);
-Console.WriteLine(date.ToString());
+// Date date = new Date(1, 12, 2023);
+// Console.WriteLine(date.ToString());
+
+
+/////                                       TASK 4
+
+BankAccount account = new BankAccount(1001, 5000.00m, "John Doe");
+account.Deposit(1000.00m);
+account.WithDraw(200.00m);
+account.FreezeAccount();
+account.Deposit(500.00m);
+account.UnfreezeAccount();
+account.Deposit(500.00m);
+Console.ReadKey();
