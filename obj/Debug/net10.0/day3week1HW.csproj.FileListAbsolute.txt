@@ -1,0 +1,14 @@
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\bin\Debug\net10.0\day3week1HW.exe
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\bin\Debug\net10.0\day3week1HW.deps.json
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\bin\Debug\net10.0\day3week1HW.runtimeconfig.json
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\bin\Debug\net10.0\day3week1HW.dll
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\bin\Debug\net10.0\day3week1HW.pdb
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\day3week1HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\day3week1HW.AssemblyInfoInputs.cache
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\day3week1HW.AssemblyInfo.cs
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\day3week1HW.csproj.CoreCompileInputs.cache
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\day3week1HW.dll
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\refint\day3week1HW.dll
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\day3week1HW.pdb
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\day3week1HW.genruntimeconfig.cache
+C:\Users\firuz\OneDrive\Desktop\day3week2HW\day3week1HW\obj\Debug\net10.0\ref\day3week1HW.dll
